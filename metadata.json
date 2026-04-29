@@ -1,5 +1,6 @@
 {
   "owner": "peter-evans",
   "name": "approve-pull-request-action",
-  "visibility": ""
+  "visibility": "internal",
+  "description": "A GitHub Action for approving pull requests."
 }

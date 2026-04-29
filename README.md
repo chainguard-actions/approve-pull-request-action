@@ -1,5 +1,7 @@
 # peter-evans/approve-pull-request-action
 
+A GitHub Action for approving pull requests.
+
 Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/peter-evans/approve-pull-request-action](https://github.com/peter-evans/approve-pull-request-action).
 
 ## Versions
