@@ -1,6 +1,12 @@
 # peter-evans/approve-pull-request-action
 
-Hardened GitHub Action by [Chainguard](https://www.chainguard.dev).
+Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/peter-evans/approve-pull-request-action](https://github.com/peter-evans/approve-pull-request-action).
+
+## Versions
+
+| Version | Tag | Upstream commit |
+|---------|-----|-----------------|
+| v2.0.1 | [`v2.0.1`](https://github.com/chainguard-actions/approve-pull-request-action/tree/v2.0.1) | — |
 
 ## Privacy
 
